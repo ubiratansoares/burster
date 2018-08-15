@@ -2,7 +2,8 @@
 
 > Kotlin helper for nicer Junit4 "parametrized" tests
 
-[![CircleCI](https://circleci.com/gh/ubiratansoares/burster.svg?style=svg&&circle-token= a5ae444cb7ae1b36b985a8e89b40e2c2c48d8c80)](https://circleci.com)
+[![Build Status](https://circleci.com/gh/ubiratansoares/burster.svg?style=svg&&circle-token= a5ae444cb7ae1b36b985a8e89b40e2c2c48d8c80)](https://circleci.com)
+
 
 ## Overview
 
