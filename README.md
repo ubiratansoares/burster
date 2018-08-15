@@ -2,6 +2,8 @@
 
 > Kotlin helper for nicer Junit4 "parametrized" tests
 
+[![CircleCI](https://circleci.com/gh/ubiratansoares/burster/tree/master.svg?style=svg)](https://circleci.com/gh/ubiratansoares/burster/tree/master)
+
 ## Overview
 
 Junit4 parametrized tests are not so cool when working with Kotlin. 😢
@@ -62,7 +64,7 @@ But as an Android developer, I figure out that bursting some values and performi
 
 Nevertheless, some of the niciests (and advanced) `KotlinTest` features rely on the `junit5` engine and despite a [OSS effort](https://github.com/mannodermaus/android-junit5) to enable us - Android devs - to use junit5 platform to build Android applications, I burned my fingers a little bit much on it ... 
 
-**Project Nitrogen** at [Android Jetpack] (https://developer.android.com/jetpack/) teaches us that official **junit5** support for Android developement from Google is not coming any soon ... therefore, we are stucked on jUnit4 by now. This DSL solves the aforementioned issue in this overall context and usecase.
+**Project Nitrogen** at [Android Jetpack](https://developer.android.com/jetpack/) teaches us that official **junit5** support for Android developement from Google is not coming any soon ... therefore, we are stucked on jUnit4 by now. This DSL solves the aforementioned issue in this overall context and usecase.
 
 ## Setup
 
